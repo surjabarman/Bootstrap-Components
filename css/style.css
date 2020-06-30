@@ -1,0 +1,25 @@
+.bg-custom{
+	min-height: 300px;
+}
+.box{
+	background-color: #f1f2f6;
+	min-height: 550px;
+	margin: 10px 0;
+	padding: 0px 40px;
+}
+.box1{
+	background-color: #b2bec3;
+	margin-top: 10px;
+}
+.box2{
+	background-color: #f1f2f6;
+	min-height: 100px;
+	margin: 10px 0;
+	padding: 0px 40px;
+}
+.cus-context, .cus-btn{
+	margin-bottom: 7px;
+}
+.btn-custom{
+	font-size: 14px;
+}
